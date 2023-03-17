@@ -1318,6 +1318,10 @@ figcaption {
   grid-template-rows: auto;
 }
 
+.our-investments-grid.hide {
+  display: none;
+}
+
 .heading-small {
   margin-top: 10px;
   margin-bottom: 10px;
